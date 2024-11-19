@@ -1,0 +1,856 @@
+---
+title: "What is Graduate School and how do you apply?"
+subtitle: "For Botanists"
+date: "2024-June-6"
+date-format: long
+format: 
+  revealjs:
+    theme: moon
+    highlight: pygments
+    preview-links: auto
+    chalkboard: 
+      boardmarker-width: 5
+    reveal_options:
+      width: 1920
+      height: 1080
+    fontsize: 24pt
+css: custom.css
+editor: 
+  markdown: 
+    wrap: 72
+include-in-header:
+  - text: |
+      <style>
+      #title-slide .title {
+        font-size: 1.5em;
+      }
+      </style>
+---
+
+# 1. What is Grad School?
+
+- two main levels, Master's (M.S., M.Sc.) and Doctorate (Ph.D)  
+
+::: {.fragment}
+::: {style="float: left; width: 50%;"}
+- **Masters**  
+  - 2 (-3) years  
+  - the standard for most gov't, industry, and non-profit, jobs  
+  - learn how to do science, and report it  
+  - science degrees usually funded, professional degrees rarely are  
+  
+:::
+:::
+
+::: {.fragment}
+::: {style="float: right; width: 50%;"}
+- **Doctorate**  
+  - 5-6 (-7) years  
+  - the requirement for essentially all academic jobs  
+  - learn how to identify essential areas of research, do the science, report, hype it.  
+  - always funded   
+  
+:::
+:::
+
+## 1.1 how do grad students spend their time?
+
+- The focus generally isn't on classes *but rather* **research**  
+
+::: {.fragment}
+::: {style="float: left; width: 40%;"}
+- **Masters** (a sprint)  
+<font size="5.5"> 
+  - 1st yr most coursework, developing research ideas with advisers, these generally innovations off an existing project     
+  - 2nd yr mostly all research and work, analyzing and writing data from Summer field work 
+</font>
+
+:::
+:::
+
+::: {.fragment}
+::: {style="float: right; width: 60%;"}
+- **Doctorate** (a marathon)  
+<font size="5,5"> 
+  - 1st yr read stuff, take some classes, check in with adviser, apply for more money  
+  - 2nd have an idea for chapters (sections of dissertation), apply for money, start designing experiments  
+  - 3rd experiments!!! Conferences, publishing a review?   
+  - 4th start analyzing data in earnest, Conferences?, collaborators?  
+  - 5th polishing manuscripts, Conferences? looking for Post-docs.  
+</font> 
+
+::: 
+::: 
+
+## 1.2 What is the point of Grad School - for society?
+
+<center>
+<font size="4">
+![Grad School by Matt Might](./images/assorted/MattMight.png){height=50%}
+</font>
+</center>
+
+## 1.3 What is the point of Grad School - *for you*
+
+- Learning
+  - you can learn many things from books, museums, the internet, etc.  
+  - focus on topics you cannot self teach, e.g. statistics, programming, taxonomy  
+- Develop your career, open up new opportunities  
+  - you are an employee of the adviser and school  
+  - this is another step in your career path   
+- Focusing on developing your career by learning new skills, while simultaneously accomplishing employers goals     
+- Network, science is a small circle, make as many friends as possible - you all share similar interests  
+
+# 2. Prepare Now
+
+
+::: {style="float: left; width: 60%;"}
+- Some notes on what makes a good grad student from [John N. Thompson](https://bpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/4/216/files/2019/12/Thompson-On-being-a-successful-graduate-student-v9.pdf)  
+- These are the traits which *success* in, not just graduation from, grad school will require  
+- Begin cultivating them now; grad school isn't a precipice just another continuum   
+- Some of us this has a guide when writing letters of recommendation... 
+:::
+
+::: {style="float: right; width: 40%;"}
+<center>
+<font size="4">
+![](./images/assorted/Thompson.png){height=50%}
+</font>
+</center>
+::: 
+
+## 2.1 Learn to set goals & develop self discipline  
+
+- most of adult life is digesting a problem into smaller parts  
+- learn to identify a problem  
+- learn to theorize solutions for a problem  
+- work to decompose the solution into manageable steps   
+- steps which can be evaluated are most important   
+- manage your time working on these steps  
+- understand the depth of care and focus each step requires   
+
+## 2.2 Work smarter not harder
+
+- you will always be busier than you have time for. 
+- always be on the lookout for new methods to accomplish the same goals
+- understand trade-offs on accuracy, precision, and what the problem requires. 
+
+## 2.3 Treat yourself and others as a professional
+
+- You are all developing your professional networks   
+- If you don't take yourself seriously, others will not.  
+- Self respect generates respect for others accomplishments  
+
+## 2.4 Read & write, write, write
+
+- Read scientific papers relevant to your field - once a month?  
+  - Introduction/Results/Discussion  
+  - don't fret about statistics and methods yet.  
+  - consider and challenge the authors positions 
+  
+::: {.fragment}
+- Write daily. 
+  - Writing (rough drafts) is a tool to help you think  
+  - Necessary to communicate your ideas  
+  - Clarity and brevity are desired in all fields
+- try and write for 10-15 minutes
+  - I want your emails to be well thought out, succinct, and clear (we'll get there)  
+  
+:::
+
+## 2.5. Check & recheck your data
+
+- "*An error does not become a mistake until your refuse to correct it*"
+  - mistakes are unavoidable    
+  - your reaction to them define many peoples opinions of you  
+  - learn to identify them, and the factors which caused them  
+  - learn when and how to correct them, if they are unfixable learn how to accept them
+- good data makes grad school easy, bad data makes it hell. 
+
+## 2.6 Work on reporting and communicating results
+
+- work on concisely conveying your activities for a work week to superiors  
+  - be able to distinguish important and superfluous information   
+  - be able to craft an informative and engaging narrative  
+
+::: {.fragment}
+- work on conveying scientific observations and findings to those who were not present  
+  - providing adequate context for the audience    
+  - balancing specialized terminology and concepts with subtle reminders of their meaning  
+  
+:::
+::: {.fragment}
+- use the above to discuss a plan of action with your supervisor
+  - in some instances use them to help convince your supervisor of your plan 
+  
+:::
+
+## 2.7 The basic unit of correspondence is three*  
+
+1) You politely ask the question  
+2) They respond  
+3) You thank them for their time  
+
+*remember a back-and-forth must still end with step 3*  
+
+# 3. But my   *X*   isn't perfect!
+
+::: {style="float: left; width: 50%;"}
+- _"it's not where you are from but where you are headed"_  
+- don't self-select yourself down *too hard* when considering schools  
+- applicants are evaluated on a wide variety of metrics. 
+- the perfect grad student doesn't exist  
+- everyone has strengths and weaknesses  
+  - learn to display your strengths  
+  - improve your weaknesses  
+  
+:::
+
+::: {style="float: left; width: 50%;"}
+<font size="4">
+<center>
+![xkcd -_Imposter Syndrome_](./images/assorted/impostor_syndrome.png){height=50%}
+</center>
+</font>
+:::
+
+## 3.1 GPA 
+
+::: {style="float: left; width: 70%;"}
+- If your GPA isn't 'perfect' don't fret  
+- 'Major' classes outweigh general electives  
+- Upper division classes more important than lower division  
+- Can people tell you fell in love with the discipline?  
+- Nowadays with grade inflation, this becoming less trustworthy    
+:::
+
+::: {style="float: right; width: 30%;"}
+<font size="4">
+<center>
+![Chartr](./images/assorted/GPA.png){height=100%}
+</center>
+</font>
+:::
+
+## 3.2 GRE
+
+::: {.fragment}
+- standardized test intended to assess basic math, writing, and written comprehension skills 
+::: 
+::: {.fragment}
+- Now seldom required  
+  - don't skip a dream program/adviser because they require it; Fee Reduction Programs exist   
+  - study for it a bit every day  
+- if 'optional' for application packages  
+    - if you have very good scores, submit them.  
+    - if your scores are below average *for the program*, don't submit them. 
+    
+::: 
+
+## 3.3 Research Experience
+
+::: {style="float: left; width: 70%;"}
+- If you had it, your experiment(s) probably didn't work  
+  - that wasn't the point of doing it.   
+- the point of undergrad research is that you learned how to think about research  
+- balancing success with failures, show critical thinking  
+- sell people on your understanding of developing a hypothesis, and an experiment to reject the null.  
+- what did you *learn* from the mistakes  
+
+:::
+
+::: {style="float: right; width: 30%;"}
+<font size="4">
+<center>
+![Phi Designs](./images/assorted/PhiDesigns.png){height=90%}
+</center>
+</font>
+::: 
+
+## 3.4 Work Experience
+
+::: {style="float: left; width: 60%;"}
+::: {.fragment}
+- You all now have excellent work experience  
+::: 
+::: {.fragment}
+- Modify your CV throughout the season as you have new experiences  
+- You all have **real** field experience  
+- Shown capabilities of collecting data in difficult situations  
+:::
+::: {.fragment}
+- Like for all jobs  
+  - consider the learning you have done  
+  - the independent decision making  
+  - hands on aspects  
+  - perseverance  
+  
+:::
+:::
+
+::: {style="float: left; width: 40%;"}
+<font size="4">
+<center>
+![Hubert Szczygiel](./images/assorted/FieldExperience.jpg){width=100%}
+</center>
+</font>
+:::
+  
+## 3.5 '*Non-prestigious*' undergrad school
+
+::: {.fragment}
+- "*smart people are everywhere, but some places have more smart people than others*"  
+:::
+
+::: {.fragment}
+- Essentially no one cares at your career stage in this field  
+- Given the way in-state tuition, and scholarships work, combined with which schools still have botany programs it's a total wash  
+- undergrads from 'elite' schools *do* have an advantage, but they are absurdly rare in this field.  
+:::
+
+## 3.6 The Cover Letter
+
+- the real purpose of a cover letter is for you to make a case for yourself
+- tell a story about your journey through the field. 
+- explain areas where you don't excel, discuss wanting to strengthen in them?  
+
+# 4. Researching Graduate Programs  
+
+- Not many Botany programs left... 
+- Advisers easily found via the literature  
+<br>
+<br>
+<center>
+<font size="4">
+![phdcomics](./images/assorted/GradSchool_admittance.png){height=50%}
+</font>
+</center>
+
+## 4.1 Finding potential advisors 
+
+::: {style="float: left; width: 70%;"}
+::: {.fragment}
+- Conferences, Native Plant Programs, **Work**  
+:::
+::: {.fragment}
+- Literature   
+  - in general, look for the first, or last few authors on a paper
+    - first authors generally early career, last generally established  
+  - Researches interests ebb and flow, check their websites to see their papers from the last few years, or the 'Research Page'. 
+  
+:::
+  
+::: {.fragment}
+- Find a program first, adviser second?  
+  - if you are restricted to geographic areas  
+  - don't be dead set on a program  
+  
+::: 
+:::
+::: {style="float: left; width: 30%;"}
+<center>
+<font size="4">
+![phdcomics](./images/assorted/BSA.png){height=25%}
+![](./images/assorted/GoogleScholar.png){height=25%}
+</font>
+</center>
+:::
+
+## 4.2 Assessing programs   
+
+- Are most of the staff very old? are they still active researchers?
+  - evidence of a program soon to be shut down; difficult to learn cutting edge science here. 
+- Does the program seem to be actively hiring staff? 
+  - sign of a healthy program
+- What's the feel of the program? Very molecular - agronomic - general biology? 
+  - different levels of support and expertise offered outside your lab at these places
+
+## 4.3 Assessing schools  
+
+- Bigger the school, better the support?  
+  - have staff dedicated to professional development, career fairs, conference funding 
+
+# 5. Applying through Interviewing
+  
+- a great guide for [neuroscience](https://medium.com/@TaliaLerner/navigating-grad-school-admissions-in-science-c1972a9c0c0e)  
+- all attachments are PDF's not word docx   
+- reach out to up to 10 advisers in email stage   
+- plan on submitting formal applications for ~5 programs  
+- keep all this professional stuff in a single dedicated folder   
+
+```{r, eval = F, echo = F}
+DiagrammeR::grViz("digraph {
+  
+graph[layout = dot, rankdir = LR]
+
+'Update CV'
+'Identify\nprospective advisers'
+'Read papers'
+'Inquiry emails'
+'Chat w/ adviser'
+'Chat w/ students'
+'Identify funding'
+'Research due dates'
+'application package'
+
+'Update CV' -> 'Identify\nprospective advisers' -> 'Read papers' -> 'Inquiry emails' -> 'Chat w/ adviser' -> 'Chat w/ students' -> 'Identify funding' -> 'Research due dates' -> 'application package'
+}")
+```
+
+<center>
+![](./images/assorted/Process.png){width="100%"}
+</center>
+
+## 5.1 Write a curriculum vitae  - 1
+
+::: {style="float: left; width: 58%;"}
+- these are the 'resumes' used by academics  
+- they can be very long (20+ pages), and *list* all notable accomplishments of a scholar  
+- they simply list 'appointments' and 'papers/conferences/grants' are the highlights  
+- very good for true academics... 
+- not so hot for young scientists... 
+::: 
+
+::: {style="float: right; width: 40%;"}
+<font size="4">
+![Academic CV](./images/assorted/FantCV.png){width="95%"}
+</font>
+:::
+
+## 5.2 Write a quasi - curriculum vitae  - 2
+
+::: {style="float: left; width: 58%;"}
+- Allows easy linking of CV to cover letter  
+- List relevant accomplishments using XZ*+W* format (derived from 'XYZ' format)     
+- X (accomplishment), Z (skill/method used)*, W (why does this matter?)*  
+- *W* showcases your *understanding* of the problem being addressed; science is more than methods, it's methods *applied* to understand a question or solve a problem    
+- The examples are wordy
+:::
+
+::: {style="float: right; width: 40%;"}
+<font size="4">
+![Example CV](./images/assorted/ExampleCV.png){width="100%"}
+</font>
+::: 
+
+## 5.2 Reach out to an advisor via an inquiry email  
+
+::: {style="float: left; width: 60%;"}
+- A great guide on the [Contemplative Mammoth](https://contemplativemammoth.com/2013/04/08/so-you-want-to-go-to-grad-school-nail-the-inquiry-email/)
+- Are you currently taking students?   
+- Do you have funding for students?  
+- don't be bummed if you don't get a response
+- do this about one year before the Fall you want to start.  
+::: 
+
+::: {style="float: left; width: 40%;"}
+<font size="4">
+![Statement of Purpose](./images/assorted/InquiryEmail.png){width="95%"}
+</font>
+::: 
+
+## 5.3 Set up a chat   
+
+::: {.fragment}
+- a useful way to cover a lot of ground with a potential adviser 
+:::
+
+::: {.fragment}
+- common questions  
+  - how long does it normally take for your mentees to graduate?   
+  - what distinguishes the more successful grad students you've mentored?   
+  - are you a more 'hands on' or 'hands off' adviser?   
+  - how do you help students when they are struggling with research?  
+  - how much funding is available for your students? How is it provided?   
+  - what kind of jobs do your students find after graduation?   
+  - could you introduce me to some of your former grad students, I'm interested in hearing about their experiences. 
+  
+:::
+
+## 5.4 Check in with former students of the adviser   
+
+- *your* vibe check of the professor and program  
+- Talk to a few former grad students of the adviser  
+  - do not only talk to students they suggest  
+- ask hard questions, academics are scared of speaking badly about people  
+- read between the lines   
+
+## 5.5 Determine what the program requires to apply and deadlines     
+
+- track all of your schools in a spread sheet  
+- What materials do they need submitted?  
+- When by?  
+- FOLLOW THE PROMPTS, answer the questions in the prompts  
+- Undergrad programs love rejecting people for 'prestige', grad programs want to find the right people    
+<center>
+<font size="4">
+![Due Dates](./images/assorted/DateTracking.png){width="95%"}
+</font>
+</center>
+
+## 5.6 Writing a personal statement      
+
+::: {style="float: left; width: 60%;"}
+- determine whether they want a personal statement or *statement of purpose*  
+- you selling the admissions committee on yourself.  
+- A [fantastic guide](https://wisc.pb.unizin.org/sohegraduateschoolguide/chapter/personal-statement/) 
+- follow the prompt   
+- tailor to each school   
+- ask for feedback from friends     
+:::
+
+::: {style="float: right; width: 40%;"}
+<center>
+<font size="4">
+![Statement of Purpose](./images/assorted/SOP.png){height="80%"}
+</font>
+</center>
+:::
+
+## 5.8 Writing a diversity statement    
+
+- Required in some programs, a [decent guide for young professors](https://www.insidehighered.com/advice/2016/06/10/how-write-effective-diversity-statement-essay)  
+- much more common for teaching positions - not sure if will become a grad school app staple  
+- a great way to convey your dedication to DEI topics  
+- follow the prompt  
+- follow guides  
+
+## 5.9 Requesting letters of recommendation   
+
+::: {style="float: left; width: 60%;"} 
+- People need a heads-up. 2 months before due date. 
+- writers like to know what's in your cover letter!
+- Professors you did research with, or advisers are best. Professional bosses in the field next.
+- the more relevant the writer, the stronger the admissions committee weighs their opinions  
+- If they person they cannot write a 'strong' letter, FIND SOMEONE ELSE.  
+:::
+
+::: {style="float: right; width: 40%;"} 
+<center>
+<font size="4">
+![Letter of Rec Request](./images/assorted/LOR-request.png){width="95%"}
+</font>
+</center> 
+:::
+
+## 5.10 In person visits   
+
+::: {.incremental}
+- The program and professors vibe check of *you*  
+- Study the schedule, plan bathroom breaks, bring snacks, caffeine etc.   
+- You are not only being interviewed by faculty, but also by students  
+- Dress like an adult. Yes, buy new clothes for this, get a hair cut... etc.  
+- be positive, enthusiastic, fun, be nice  
+  - pompousness is received poorly, naivety is acceptable  
+  - be humble, these people are actually *in* the program  
+  - learn peoples names; say "THANKS", have manners, etc.
+- be interested in others and their research (don't only talk about yourself)   
+- use narrative storytelling  
+
+:::
+
+# 6. Considering Programs & some Schools   
+
+- Order of Considerations  
+   1) Adviser  
+   2) Funding  
+   3) Lab Group  
+   4) Program  
+   5) School  
+   6) University  
+- Funnel from most to least interaction!! 
+- If you have money in grad school you are set  
+
+## 6.1 Doctoral Desirees - Academia is very competitive - 1
+
+- Adviser still most important... but
+- More funding a school has? more time spent on research = more publications  
+- More conference funding = more networking 
+- Bigger programs, more knowledge of future trends and directions in the discipline 
+- Very few people receiving Ph.D's will get tenure track jobs, realistically < 10% overall; supposedly ~ 40% for ecology, in botany I would estimate <10% again (Fox 2020)  
+- Schools are closing and downsizing across the Country (demographic decline), many already axed Botany type jobs (Kramer & Havens 2015)   
+
+## 6.2 Doctoral Desirees - Academia is very competitive - 2
+
+- **80%** of tenure track hires are from just **20** schools (Wapman *et al.* 2022)    
+- **100** median no. of applicants per TT job in ecology in 2015 (Fox 2020)   
+
+<center>
+<font size="4">
+![Wapman et al. 2022](./images/assorted/FacultyProduction.png){width="75%"}
+</font>
+</center>
+
+## 6.1 Doctoral Desirees - Academia is very competitive - 3
+
+::: {style="float: left; width: 60%;"}
+- Jobs exist for those who work for them, *and* get a little lucky  
+- Do not expect to be rewarded for mediocrity, your job is to push the limits of human knowledge 
+
+- These Programs *are* very strong  
+<font size="5">
+  - Cornell  
+  - U. Cal. Davis  
+  - University of Florida  
+  - Harvard  
+</font>
+
+:::
+
+::: {style="float: right; width: 40%;"}
+- Strong programs - many now more cellular  
+<font size="5">
+  - U. Cal. Berkeley   
+  - U. Illinois  
+  - U. Michigan  
+  - U. Texas  
+  - U. Washington   
+  - Wash U. (w/ MOBOT)  
+  - Washington State University  
+  - U. Wisconsin  
+  - Yale  
+  
+</font>
+:::
+
+## 6.2 Masters Folks - Industry/Non-profit jobs come from networking  
+
+::: {style="float: left; width: 50%;"}
+- Many people go into consulting firms  
+- The 'higher end' firms tend to hire people from two main categories  
+- higher end desk-jobs  
+- *often* time hire from 'prestigious' schools for more office based jobs  
+<font size="5">
+    - U. California (most)  
+    - Cornell  
+    - Northwestern   
+    - U. Washington   
+    - Yale ESF   
+    
+</font>
+:::
+
+::: {style="float: right; width: 50%;"}
+- More field work based / entry level consulting jobs 
+  - these are the **MAJORITY** of environmental jobs  
+  - hire many people from **local/regional** schools with strong networks  
+  - any school with a decent or better regional reputation  
+  
+:::
+
+## 6.3 Masters Folks - The US Gov't *loves* some schools 
+
+::: {style="float: left; width: 40%;"}
+- Many programs tailor themselves to serving as perpetual research contractors to the land management agencies.  
+- Grad school at these places are generally working on explicit projects for/with LMA's.  
+::: 
+
+::: {style="float: left; width: 60%;"}
+- Graduates of these schools *dominate* the LMA's.  
+<font size="5">
+  - Cal Poly Humboldt (HSU)  
+  - Colorado State University   
+  - University of Idaho   
+  - New Mexico State University   
+  - Northern Arizona University   
+  - Oregon State University   
+  - State University of New York (SUNY) ESF  
+  - Utah State University   
+  - University of Wyoming    
+
+</font>
+::: 
+
+## 6.4 Whats up with Botanic Garden Collaborations?
+
+::: {style="float: left; width: 60%;"}
+- Research institutes, which have many Ph.D holders, partner with Universities which can grant degrees  
+- This due to research institutes not technically allowed to confer degrees on their own  
+- This very common in Physics, and to an extent Botany.   
+- *Note both MOBOT & the NYBG partnerships are scantily documented online, reach out to possible advisers for info. I promise you they are real!*  
+::: 
+
+::: {style="float: right; width: 40%;"}
+- Notable programs  
+<font size="5"> 
+  - California BG - Claremont Colleges (LA area)  
+  - Chicago BG - Northwestern University  
+  - Desert BG - Arizona State University (Phoenix)    
+  - Denver BG - various (UC Denver)  
+  - Missouri BG - various (incl. Wash U)   
+  - New York BG - various (incl. Columbia & NYU)  
+  
+</font>  
+::: 
+
+## 6.5 Opening the gates up to Ecology  
+
+::: {style="float: left; width: 60%;"}
+- Many schools have strong ecology programs, with a botanist or two.    
+- Many of them are listed above (and not repeated here), some more are below  
+- Generally have more funding due to the larger size of the field  
+::: 
+
+::: {style="float: left; width: 40%;"}
+- Very Strong (and largely theoretical) <font size="5"> 
+  - U. Arizona 
+  - U. Cal Los Angeles
+  - U. Cal Santa Barbara
+  - U. Chicago  
+  - U. Connecticut  
+  - Duke  
+  - Princeton  
+  - Stanford  
+
+</font>
+
+- Strong (less theoretical)  <font size="5">  
+  - U. Colorado   
+  - U. Montana  
+  - U. Nevada  
+  
+</font>
+:::
+
+## 6.6 There are a ton of AMAZING ADVISERS not listed
+
+- I absolutely hate writing lists like the above (notice they are alphabetical, cause the content is kind of BS), but hopefully they help people find advisers  
+- Many great advisers are in many programs, they are best found via the literature, list-servs, and word of mouth  
+- If somebody has funding, good reviews, and the town has an OK cost of living go for it!!!   
+
+## 6.7 Cost of living and Stipend  
+
+- Different areas cost different amounts to live      
+- Critically consider how COL interacts with your stipend   
+- Many calculators exist for cost of living estimates, for example [this living wage one from MIT](https://livingwage.mit.edu/)  
+- strong plug for the Midwest  
+- virtually all college town are college towns... (they are like malls folks...)  
+- you SHOULD START A RETIREMENT AND SAVINGS FUND NOW. 
+
+## 6.8 How do most grad students get paid?
+
+::: {.fragment}
+- *Fellowship* the money just goes into your bank account   
+  - Awarded to most grad students, but range widely in how large they are   
+- *Research assistant* (RAship) you are paid to do research on a project  
+  - allows you to maximize time on research   
+- *Teaching assistant* (TAship) getting paid to 'teach' - mostly grade papers/exams  
+  - usually lower division courses  
+  
+:::
+
+::: {.fragment}
+- All of these cover the schools tuition, and should give you a surplus of money  
+- Usually people are on a mix of all 3.  
+- it is not at all uncommon for Grad Students to have a second part-time job; but this time commitment really hampers academics in training   
+- Persons who want to go into the academy should focus on Fellowships and RAships.  
+:::
+
+## 6.9 How is your research funded? 
+
+- you come onto a grant funded project managed by your adviser (gen. $100k+)   
+- small grants ($100 - 10k) via societies and schools; useful to branch out from the above      
+- you end up buying random stuff because it's faster than getting reimbursements  
+- even if you are funded by a large grant, you will have to apply to other grants and fellowships to get the practice; but the stakes are low.  
+
+## 6.10 NSF Graduate Research Fellowship Programs  
+
+::: {style="float: left; width: 70%;"}
+- a [stipend](https://www.nsfgrfp.org/) to fund research scientists for grad school  
+- *generally* awarded for persons interested in pursuing Ph.D research  
+- you can apply without being enrolled, and if awarded generally bring funding to different advisers/programs  
+- can only apply twice; highly competitive, essentially lottery rather than merit based  
+- usually due in early October  
+- LOT'S OF ATTENTION TO DETAIL REQUIRED; see if you can find academics to review/help out your portfolio  
+::: 
+
+::: {style="float: left; width: 30%;"}
+![](./images/assorted/NSF_GRFP.jpg){width="100%"}
+::: 
+
+# 7. Major Fields/Disciplines  
+
+- If you find what you love, you will probably excel and love grad school.  
+- If you don't grad school may be... what you've generally heard about grad school 
+- use this as a navigational guide  
+
+## 7.1 Systematics, Taxonomy, & Phylogenomics  
+
+- Delineating species, understanding the relationships among species, and postulating how lineages have adapted     
+- 100/100 of scientists agree "Unequivocally the coolest field in science." 
+
+- What types of jobs do people that get these degrees get?  
+  - Programmers, Professors, Herbarium curators
+
+## 7.2 Paleobotany  
+
+- Describing early diverging lineages, understanding major advances in plant evolution  
+
+- What types of jobs do people that get these degrees get?  
+  - Professors, Herbarium curators
+  
+## 7.2 Conservation Genetics/Genomics  
+
+- Using genetic data to prioritize the conservation of populations and species    
+
+- What types of jobs do people that get these degrees get?  
+  - Programmers, Professors, Research Staff, Land Managers  
+  
+## 7.5 Ecology  
+
+- get really good at making stuff up. 
+
+- What types of jobs do people that get these degrees get?
+  - Sales person, Land Managers, Consultants, Professors  
+  
+## 7.6 Theoretical Ecology  
+
+- developing mathematical and theoretical frameworks for understanding the natural world  
+- the new hot thing *...again...*  
+
+- What types of jobs do people that get these degrees get?  
+  - Professors, Research Staff at Institutions, Programmers
+  
+## 7.7 Landscape Ecology 
+
+- Understanding how patterns and processes affect ecology of areas and organisms  
+- THIS PATH HAS JOBS  
+
+- What types of jobs do people that get these degrees get?  
+  - Programmers, Consultants, Research Staff, Land Managers, Professors 
+  
+## 7.8 Restoration 
+
+-  how do we restore different amounts of ecological function to areas?  
+- THIS PATH HAS MANY JOBS  
+
+- What types of jobs do people that get these degrees get?  
+  - Land Managers, Consultants, Professors  
+  
+## 7.9 Rangeland Management
+
+- how to manage grasslands for multiple uses, but mostly cattle grazing 
+- THIS PATH HAS MANY JOBS  
+
+- What types of jobs do people that get these degrees get?  
+  - Land Managers, Consultants, Professors  
+
+## 7.10 Forestry  
+
+- how to manage forest for sustainable timber harvests  
+- THIS PATH HAS MANY JOBS  
+
+- What types of jobs do people that get these degrees get?  
+  - Land Managers, Consultants, Professors
+  
+## 7.11 Horticulture
+
+- how to grow many species of plants  
+- totally distinct field, lot's of jobs  
+- if you want to grow plants this is the place to be  
+- go to a HORTICULTURE Program not a botany program!!!  
+- I suspect a good education if you want to work in the agronomy side of native seeds  
+
+- What types of jobs do people that get these degrees get?  
+  - Horticulturalist!!!   
+  
