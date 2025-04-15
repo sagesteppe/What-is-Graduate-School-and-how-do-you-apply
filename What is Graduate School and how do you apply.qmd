@@ -296,7 +296,7 @@ include-in-header:
 </font>
 :::
   
-## 3.5 '*Non-prestigious*' undergrad school
+## 3.5 *'Non-prestigious'* undergrad school
 
 ::: {.fragment}
 - "*smart people are everywhere, but some places have more smart people than others*"  
