@@ -108,7 +108,7 @@ include-in-header:
 - Some notes on what makes a good grad student from [John N. Thompson](https://bpb-us-e1.wpmucdn.com/sites.ucsc.edu/dist/4/216/files/2019/12/Thompson-On-being-a-successful-graduate-student-v9.pdf)  
 - These are the traits which *success* in, not just graduation from, grad school will require  
 - Begin cultivating them now; grad school isn't a precipice just another continuum   
-- Some of us this has a guide when writing letters of recommendation... 
+- Some of us use this as a guide when writing letters of recommendation... 
 :::
 
 ::: {style="float: right; width: 40%;"}
@@ -665,7 +665,7 @@ graph[layout = dot, rankdir = LR]
 
 ::: {style="float: left; width: 60%;"}
 - Research institutes, which have many Ph.D holders, partner with Universities which can grant degrees  
-- This due to research institutes not technically allowed to confer degrees on their own  
+- research institutes not allowed to confer degrees on their own  
 - This very common in Physics, and to an extent Botany.   
 - *Note both MOBOT & the NYBG partnerships are scantily documented online, reach out to possible advisers for info. I promise you they are real!*  
 ::: 
@@ -731,7 +731,7 @@ graph[layout = dot, rankdir = LR]
 
 ::: {.fragment}
 - *Fellowship* the money just goes into your bank account   
-  - Awarded to most grad students, but range widely in how large they are   
+  - Awarded to most grad students, but range in amount   
 - *Research assistant* (RAship) you are paid to do research on a project  
   - allows you to maximize time on research   
 - *Teaching assistant* (TAship) getting paid to 'teach' - mostly grade papers/exams  
@@ -761,7 +761,7 @@ graph[layout = dot, rankdir = LR]
 - you can apply without being enrolled, and if awarded generally bring funding to different advisers/programs  
 - can only apply twice; highly competitive, essentially lottery rather than merit based  
 - usually due in early October  
-- LOT'S OF ATTENTION TO DETAIL REQUIRED; see if you can find academics to review/help out your portfolio  
+- ATTENTION TO DETAIL REQUIRED; see if you can find academics to review/help out your portfolio  
 ::: 
 
 ::: {style="float: left; width: 30%;"}
@@ -846,7 +846,7 @@ graph[layout = dot, rankdir = LR]
 ## 7.11 Horticulture
 
 - how to grow many species of plants  
-- totally distinct field, lot's of jobs  
+- totally distinct field, lots of jobs  
 - if you want to grow plants this is the place to be  
 - go to a HORTICULTURE Program not a botany program!!!  
 - I suspect a good education if you want to work in the agronomy side of native seeds  
